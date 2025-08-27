@@ -63,4 +63,4 @@ The project demonstrates the use of **Dart programming**, **Flutter UI widgets**
 ## 🚀 Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flutter-shopping-app.git
+   git clone [https://github.com/your-username/flutter-shopping-app.git](https://github.com/basant-y02/flutter-shopping-app.git)
